@@ -1,0 +1,52 @@
+header{
+    height: 100px;
+   margin: 40px;
+}
+.img{
+    float:right;
+    position: relative;bottom:  30px ;
+
+
+}
+.div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 750px;
+  
+}
+form{
+    background-image:url('https://raw.githubusercontent.com/LTUC/amman-201d12/main/class-10/lab-a/lab-assets/list-bg.png') ;
+    font-size: 25;
+    width:100% ;
+     -webkit-columns: 40px 2;  
+    -moz-columns: 60px 2; 
+    columns: 60px 2; 
+    text-align: left;
+    padding-left: 10px;
+   font-weight: bold;
+
+
+}
+main div {
+    width:50% ;
+    position:relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+footer{
+    margin-top: 40px;
+}
+h1{
+    margin-left: 400px;
+}
+.p2{
+    text-align: center;
+
+}
+.i{
+    margin-left: 400px;
+}
